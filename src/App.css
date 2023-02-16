@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;1,400&display=swap');
+html{
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  background: linear-gradient(180deg, #20D0AD 0%, #3E9987 100%);
+}
+.overlay{
+  position: absolute;
+  width: 1284px;
+  height: 844px;
+  left: 78px;
+  top: 86px;
+  background: #FFFFFF;
+  opacity: 0.3;
+  border-radius: 10px;
+}
+.overlay2{
+  position: relative;
+  width: 1284px;
+  height: 844px;
+  left: 78px;
+  top: 86px;
+  text-align: center;
+  align-items: center;
+  justify-content: space-between;
+}
+
+h1, h2, p{
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+h1{
+  
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 90px;
+/* identical to box height */
+text-align: center;
+color: white;
+}
+button{
+  width: 450px;
+  height: 70px;
+  display: block;
+  color: white;
+  background-color: none;
+  justify-content: space-around;
+}
+.cadastro{
+  position: absolute;
+width: 450px;
+height: 70px;
+left: 494px;
+top: 538px;
+font-family: 'Poppins', sans-serif;
+color: white;
+font-size: 35px;
+border-radius: 10px;
+justify-content: center;
+text-align: center;
+}
+.login{
+  position: absolute;
+width: 450px;
+height: 70px;
+left: 494px;
+top: 659px;
+font-family: 'Poppins', sans-serif;
+color: white;
+font-size: 35px;
+border-radius: 10px;
+justify-content: center;
+text-align: center;
+}
+.cada2{
+  position: absolute;
+width: 450px;
+height: 70px;
+left: 494px;
+top: 538px;
+background: #FFFFFF;
+  opacity: 0.3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+.logi2{
+  position: absolute;
+  width: 450px;
+  height: 70px;
+  left: 494px;
+  top: 659px;
+
+  background: #FFFFFF;
+  opacity: 0.3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
